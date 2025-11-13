@@ -140,4 +140,4 @@ PC-A ↔ PC-C ✅
 
 PC-B ↔ PC-D ✅
 
-Semua host dalam VLAN 10 berhasil saling terhubung — menandakan trunk dan VLAN berfungsi dengan baik.
+Semua host dalam VLAN 10 berhasil saling terhubung menandakan trunk dan VLAN berfungsi dengan baik.
